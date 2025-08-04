@@ -48,10 +48,6 @@ A comprehensive and interactive Power BI dashboard was created to explore:
 
 <img width="1211" height="661" alt="Screenshot 2025-08-04 092651" src="https://github.com/user-attachments/assets/026d9757-1e6c-46ef-b396-2aef2a81f823" />
 
-## Here are the merged datasets
-
-<img width="767" height="194" alt="Screenshot 2025-08-04 101442" src="https://github.com/user-attachments/assets/cc6065e1-b8c5-4b17-b743-01869b4d390f" />
-
 ## 📁 Python Analysis Highlights (Jupyter)
 
 ### ✅ Data Understanding & Cleaning
@@ -96,15 +92,12 @@ A comprehensive and interactive Power BI dashboard was created to explore:
 
 ## 📂 Dataset Sources
 
-The data used in this project was collected from official and credible sources related to tourism in Rwanda, including:
+The data used in this project was collected from official and credible sources related to tourism in Rwanda:
 
-Rwanda Development Board (RDB) – Tourism
-
-National Institute of Statistics of Rwanda (NISR)
-
-Visit Rwanda Official Site
-
-World Bank – Tourism Data
+- [Rwanda Development Board (RDB)](https://rdb.rw/tourism-conservation/)
+- [National Institute of Statistics of Rwanda (NISR)](https://www.statistics.gov.rw/)
+- [Visit Rwanda Official Site](https://www.visitrwanda.com/)
+- [World Bank – Tourism Data](https://data.worldbank.org/indicator/ST.INT.ARVL?locations=RW)
 
 
 > ⚠️ All datasets were downloaded as .csv files and cleaned in Python before visualization in Power BI.
