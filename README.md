@@ -48,12 +48,21 @@ A comprehensive and interactive Power BI dashboard was created to explore:
 
 <img width="1211" height="661" alt="Screenshot 2025-08-04 092651" src="https://github.com/user-attachments/assets/026d9757-1e6c-46ef-b396-2aef2a81f823" />
 
+## Here are the merged datasets
+
+<img width="767" height="194" alt="Screenshot 2025-08-04 101442" src="https://github.com/user-attachments/assets/cc6065e1-b8c5-4b17-b743-01869b4d390f" />
+
 ## 📁 Python Analysis Highlights (Jupyter)
 
 ### ✅ Data Understanding & Cleaning
 - Handled null values and cleaned categorical inconsistencies
 - Parsed time-based features from raw columns (Year, Month)
 - Merged park visit and international arrival datasets
+
+## Here are the merged datasets
+
+<img width="767" height="194" alt="Screenshot 2025-08-04 101442" src="https://github.com/user-attachments/assets/cc6065e1-b8c5-4b17-b743-01869b4d390f" />
+
 
 ### 📈 Exploratory Data Analysis
 - Descriptive stats (mean, median, mode, std, percentiles)
@@ -83,6 +92,11 @@ A comprehensive and interactive Power BI dashboard was created to explore:
 - Tourist origins are largely from **Europe**, **North America**, and **neighboring African countries**
 - Strong correlation between **arrival volumes** and **park visits**
 - Tourism Efficiency metric revealed underutilized years despite high arrival counts
+- There is a steady recovery post-COVID-19 in 2022–2023.
 
----
-    There is a steady recovery post-COVID-19 in 2022–2023.
+
+## ✅ Conclusion
+
+This project successfully analyzed Rwanda's tourism trends using Python for data preprocessing and Power BI for interactive visualization. The analysis revealed key insights such as seasonal fluctuations in tourist visits, leading countries of origin, and patterns in national park attendance. By transforming raw data into meaningful visual narratives, this project not only supports informed decision-making for stakeholders but also highlights opportunities for improving Rwanda’s tourism strategies.
+
+Future enhancements may include integrating weather data, incorporating economic indicators, or forecasting tourism demand using advanced models. This project serves as a strong foundation for data-driven tourism planning and policy formulation in Rwanda.
