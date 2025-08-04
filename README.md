@@ -94,6 +94,20 @@ A comprehensive and interactive Power BI dashboard was created to explore:
 - Tourism Efficiency metric revealed underutilized years despite high arrival counts
 - There is a steady recovery post-COVID-19 in 2022–2023.
 
+## 📂 Dataset Sources
+
+The data used in this project was collected from official and credible sources related to tourism in Rwanda, including:
+
+Rwanda Development Board (RDB) – Tourism
+
+National Institute of Statistics of Rwanda (NISR)
+
+Visit Rwanda Official Site
+
+World Bank – Tourism Data
+
+
+> ⚠️ All datasets were downloaded as .csv files and cleaned in Python before visualization in Power BI.
 
 ## ✅ Conclusion
 
